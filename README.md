@@ -1,2 +1,2 @@
 # HMI
-Projekt na PRzedmiot Interakcje Człowiek Maszyna
+Projekt na Przedmiot Interakcje Człowiek Maszyna
